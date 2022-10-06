@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@500;700&family=League+Spartan:wght@300;400;500;700;900&display=swap');
+
+:root {
+    --inter: "Inter", sans-serif;
+    --crete: "Crete Round", serif;
+    --dark-background: #1f2937;
+    --hero-color: #f9faf8;
+    --hero-sec: #e5e7eb;
+    --button-color: #3882f6;
+    --info-text: #1f2937;
+    height: 100vh;
+    padding-top: 4rem;
+  }
+
+body{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.form-container{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
