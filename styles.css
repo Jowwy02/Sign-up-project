@@ -43,18 +43,7 @@ body {
   height: 100px;
 }
 
-.odin-img {
-  /* position: absolute; */
-  /* 
-  left: 100px; */
-  /* top: 100px; */
-  /* margin-top: 20px; */
-  /* height: 100px; */
-  /* opacity: rgba(0, 0, 0, 0.75); */
-}
-
 .odin-text {
-  /* position: absolute; */
   color: white;
   font-weight: bolder;
   font-size: 50px;
@@ -77,30 +66,18 @@ body {
   box-shadow: -2px 7px 9px -3px rgba(29, 33, 27, 0.15);
   background-color: var(--hero-color);
   padding-left: 16px;
-  /* padding-top: 16px; */
   padding-bottom: 16px;
-  /* margin-top: 16px; */
   display: grid;
-  /* grid-template-columns: 1fr 1fr; */
   column-gap: 10px;
   row-gap: 20px;
-  /* border-radius: 2px solid black; */
-  /* grid-template-rows: 1fr 1fr 1fr 1fr  ; */
 }
 
 .form-group > h3 {
   grid-column: 1 / 3;
 }
 
-.form-container > div {
-  /* border: 2px solid red; */
-  /* width: 100%; */
-}
-
 .forms {
   background-color: var(--hero-sec);
-  /* padding-left: 16px; */
-  /* margin:10px; */
 }
 
 .forms > div {
@@ -111,7 +88,6 @@ body {
 .button-group {
   margin-top: 10px;
   padding-left: 16px;
-  /* background-color: #596D48; */
 }
 
 button:hover {
@@ -122,13 +98,7 @@ button:hover {
   padding-left: 16px;
 }
 
-#password:invalid {
-  /* outline: 2px solid red; */
-  /* border-radius: 3px; */
-}
-
 input {
-  /* border-radius: 5px; */
   border-radius: 6px;
   padding: 8px 14px;
   border: 1px solid #e5e7eb;
@@ -140,5 +110,4 @@ input {
   border: none;
   border-radius: 8px;
   padding: 10px 30px;
-  /* width: ; */
 }
