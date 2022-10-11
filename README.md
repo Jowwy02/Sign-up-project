@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-SIGN UP PROJECT
+ SIGN UP PROJECT
 
 > This is a simple sign up form
 
